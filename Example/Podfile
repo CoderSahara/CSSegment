@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CSSegment_Example' do
+  pod 'CSSegment', :path => '../'
+
+  target 'CSSegment_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
