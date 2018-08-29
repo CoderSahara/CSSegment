@@ -1,0 +1,16 @@
+PODS:
+  - CSSegment (0.1.0)
+
+DEPENDENCIES:
+  - CSSegment (from `../`)
+
+EXTERNAL SOURCES:
+  CSSegment:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CSSegment: 502b8f305c9e1131caafaaaa462c8513e0f420e6
+
+PODFILE CHECKSUM: b3cb35da94559013a4cc7d7bd51c8c502dee994d
+
+COCOAPODS: 1.5.3

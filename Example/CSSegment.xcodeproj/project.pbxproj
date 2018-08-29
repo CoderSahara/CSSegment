@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		12C20DF50BD255841F5A45AE /* CSSegment.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = CSSegment.podspec; path = ../CSSegment.podspec; sourceTree = "<group>"; };
+		12C20DF50BD255841F5A45AE /* CSSegment.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CSSegment.podspec; path = ../CSSegment.podspec; sourceTree = "<group>"; };
 		234D8C1310DD86CCEFB604E1 /* Pods_CSSegment_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CSSegment_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AE1FD928EEF88BFC0AB0189 /* Pods-CSSegment_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CSSegment_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CSSegment_Tests/Pods-CSSegment_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		3115C37D44A29349FF5C6C18 /* Pods-CSSegment_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CSSegment_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CSSegment_Tests/Pods-CSSegment_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -64,9 +64,9 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9B070F1DA908BBA226A34048 /* Pods-CSSegment_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CSSegment_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-CSSegment_Example/Pods-CSSegment_Example.release.xcconfig"; sourceTree = "<group>"; };
 		A48C4C02AB5A9D50843FC546 /* Pods-CSSegment_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CSSegment_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CSSegment_Example/Pods-CSSegment_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		A60115222A3287113538F39F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		A60115222A3287113538F39F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		B7CA2B27304BA2C81F791441 /* Pods_CSSegment_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CSSegment_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BFAA6715750EF1159B2E7786 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		BFAA6715750EF1159B2E7786 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

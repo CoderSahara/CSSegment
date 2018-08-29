@@ -1,0 +1,6 @@
+framework module CSSegment {
+  umbrella header "CSSegment-umbrella.h"
+
+  export *
+  module * { export * }
+}
